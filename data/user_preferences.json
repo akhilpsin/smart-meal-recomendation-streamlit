@@ -1,0 +1,28 @@
+{
+    "aps3": {
+        "favorite_cuisines": [
+            "Indian",
+            "Chinese"
+        ],
+        "past_orders": [
+            1811,
+            2532,
+            2305,
+            1662
+        ]
+    },
+    "aps4": {
+        "favorite_cuisines": [
+            "Indian",
+            "Chinese"
+        ],
+        "past_orders": [
+            1308,
+            1141,
+            154,
+            495,
+            506,
+            154
+        ]
+    }
+}
