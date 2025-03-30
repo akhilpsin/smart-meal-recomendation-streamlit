@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/meal-match.git
+   git clone "https://github.com/akhilpsin/smart-meal-recomendation-streamlit.git"
    cd meal-match
    ```
 
