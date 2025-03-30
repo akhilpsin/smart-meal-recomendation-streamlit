@@ -2,6 +2,12 @@
 
 Meal Match is a Streamlit-based web application designed to help users find and order meals based on their preferences in Germany. The app suggests trending meals, budget-friendly options, and curated meal combos that fit the user's taste and budget.
 
+## Screenshot of the Application
+<p align="center">
+  <img src="https://github.com/akhilpsin/smart-meal-recomendation-streamlit/blob/main/assets/Screenshot_1.png" width="45%" />
+  <img src="https://github.com/akhilpsin/smart-meal-recomendation-streamlit/blob/main/assets/Screenshot_2.png" width="45%" />
+</p>
+
 ## Features
 
 - **User Preferences**: Users can enter their userID and set their favorite cuisines, city, and budget preferences.
